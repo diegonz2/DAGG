@@ -1,1 +1,3 @@
-# DAGG
+# maven-project
+
+Simple Maven Project
